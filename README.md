@@ -13,7 +13,7 @@ After this, start with the following steps:
 
 2. There is a shell called `departments_controller.rb` within the `app/controller/api/v1` directory.  Inside the file, add the lines to the `index` to generate the json for active departments in alphabetical order.
   
-3. Create a series of serializers with the `rails g serializer` command and then flesh out those serializers so that it create the json as seen in the sample given.
+3. Create a series of serializers with the `rails g serializer` command and then flesh out those serializers so that it create the json as seen in the sample given.  Start with just a department serializer and get the main part of that correct before adding on the faculty json.
 
 Qapla'
 
